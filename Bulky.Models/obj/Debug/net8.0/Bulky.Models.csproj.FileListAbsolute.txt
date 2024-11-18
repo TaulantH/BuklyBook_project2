@@ -12,3 +12,4 @@ C:\Users\Dell E6330\source\repos\Bulky\Bulky.Models\obj\Debug\net8.0\refint\Bulk
 C:\Users\Dell E6330\source\repos\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.pdb
 C:\Users\Dell E6330\source\repos\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.genruntimeconfig.cache
 C:\Users\Dell E6330\source\repos\Bulky\Bulky.Models\obj\Debug\net8.0\ref\Bulky.Models.dll
+C:\Users\Dell E6330\source\repos\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.sourcelink.json
