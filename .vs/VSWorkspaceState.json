@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BulkyWeb",
+    "\\BulkyWeb\\Areas",
+    "\\BulkyWeb\\Areas\\Admin",
+    "\\BulkyWeb\\Areas\\Admin\\Views",
+    "\\BulkyWeb\\Areas\\Admin\\Views\\Product",
+    "\\BulkyWeb\\wwwroot",
+    "\\BulkyWeb\\wwwroot\\js"
+  ],
+  "SelectedNode": "\\BulkyWeb\\wwwroot\\js\\product.js",
+  "PreviewInSolutionExplorer": false
+}
