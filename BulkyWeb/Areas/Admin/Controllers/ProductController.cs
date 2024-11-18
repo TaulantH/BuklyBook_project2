@@ -30,7 +30,7 @@ namespace BulkyWeb.Areas.Admin.Controllers
         {
             ProductVM productVM = new()
             {
-                CategoryList = (IEnumerable<System.Web.Mvc.SelectListItem>)_unitOfWork.Category.GetAll().Select(u => new SelectListItem
+                CategoryList = (IEnumerable<SelectListItem>)_unitOfWork.Category.GetAll().Select(u => new SelectListItem
                 {
                     Text = u.Name,
                     Value = u.Id.ToString()
@@ -96,7 +96,7 @@ namespace BulkyWeb.Areas.Admin.Controllers
 			}
 
 			// Reload CategoryList if ModelState is invalid
-			productVM.CategoryList = (IEnumerable<System.Web.Mvc.SelectListItem>)_unitOfWork.Category.GetAll().Select(u => new SelectListItem
+			productVM.CategoryList = (IEnumerable<SelectListItem>)_unitOfWork.Category.GetAll().Select(u => new SelectListItem
 			{
 				Text = u.Name,
 				Value = u.Id.ToString()
